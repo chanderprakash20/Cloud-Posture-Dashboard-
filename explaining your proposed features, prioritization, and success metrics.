@@ -1,0 +1,30 @@
+Proposed Solution Overview
+The Cloud Posture Dashboard is designed to help security engineers quickly prioritize and remediate cloud misconfigurations across multiple cloud accounts. The solution focuses on simplicity, clarity, and actionable insights rather than overwhelming users with raw data.
+Key Features
+Severity-Based Security Overview:
+ Issues are categorized by severity (Critical, High, Medium, Low) to help engineers immediately focus on the most urgent risks.
+
+
+Filtering Across Accounts and Timeframes:
+ Basic filters allow engineers to narrow issues by account or timeframe, reducing noise in large multi-cloud environments.
+
+
+Clear Issue Context and Risk Explanation:
+ Each issue includes a plain-language explanation of the problem and why it is risky, helping engineers make informed decisions.
+
+
+Actionable Remediation Guidance:
+ Step-by-step remediation instructions guide engineers through fixing issues without needing to search external documentation.
+
+
+Prioritization Rationale
+The solution prioritizes features that reduce cognitive load and time-to-action for security engineers. Severity-based prioritization was chosen first to address alert fatigue. Detailed issue context was added next to build confidence before remediation. Advanced analytics and automation were intentionally excluded from the MVP to keep the experience simple and focused on core user needs.
+
+Success Metrics:
+Reduction in time taken to identify critical security issues
+
+
+Reduction in the number of unresolved high-severity misconfigurations
+
+
+Increased percentage of issues resolved after being viewed
