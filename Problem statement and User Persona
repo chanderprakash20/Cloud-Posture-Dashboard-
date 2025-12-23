@@ -1,0 +1,10 @@
+Problem Statement & User Persona
+
+Problem Statement
+Security engineers are responsible for keeping cloud environments secure across multiple cloud accounts. However, security misconfigurations are often scattered, numerous, and poorly prioritized. This makes it difficult for engineers to quickly understand which issues are most critical and what actions to take first.
+As a result, engineers spend too much time triaging alerts instead of fixing the highest-risk problems, increasing the chance of security incidents.
+
+
+User Persona
+The primary user is a Security Engineer who monitors cloud infrastructure on a daily basis. They are responsible for identifying, prioritizing, and fixing cloud security misconfigurations across multiple accounts. They work under time pressure and are measured by how effectively they reduce high-risk security issues.
+
