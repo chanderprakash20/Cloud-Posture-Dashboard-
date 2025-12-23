@@ -1,0 +1,20 @@
+Wireframe Overview
+I designed a 3-screen MVP flow in Figma to help security engineers quickly identify, understand, and remediate critical cloud misconfigurations.
+Screen 1: Security Overview
+ Provides a high-level view of security posture with severity-based prioritization and filters to reduce noise.
+
+
+Screen 2: Issue Details
+ Explains what the issue is, why it is risky, and which resources are affected to help engineers assess impact before taking action.
+
+
+Screen 3: Remediation Guide
+ Offers step-by-step remediation guidance to reduce time-to-fix and help engineers resolve issues confidently.
+
+
+Annotations in the wireframes explain the reasoning behind each major element and how it supports the user’s workflow.
+Link : https://www.figma.com/make/8i7yEUnjpOv2D6L9Z2iyod/Cloud-Posture-Dashboard?fullscreen=1&t=yIXYNvtjzK2EHC3e-1
+
+
+
+
